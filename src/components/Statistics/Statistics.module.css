@@ -1,0 +1,10 @@
+.list__feedback {
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+    padding-left: 0;
+}
+
+.item__feedback {
+    list-style: none;
+}

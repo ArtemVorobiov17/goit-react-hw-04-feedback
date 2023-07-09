@@ -1,0 +1,12 @@
+.wrapper {
+    gap: 20px;
+    display: flex;
+}
+
+.button__options {
+    border: 1px solid darkgray;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.12),
+        0px 1px 1px rgba(0, 0, 0, 0.06),
+        1px 1px 1px rgba(0, 0, 0, 0.16);
+}
